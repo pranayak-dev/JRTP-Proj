@@ -16,6 +16,7 @@ public class UpiPayment {
 		
 		LifeCard lifecard = new LifeCard();
 		lifecard.Card("sbi");
+		System.out.println("Account Active");
 		
 	} 
 

@@ -7,6 +7,7 @@ public class UpiPayment {
 	public void AccountHolderName(String AHN){
 		System.out.println("Account Details:");
 		System.out.println("Account Holder Name : "+ AHN);
+		System.out.println("Account No.");
 	}
 	
 	

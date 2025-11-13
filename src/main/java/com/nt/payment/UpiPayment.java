@@ -8,6 +8,9 @@ public class UpiPayment {
 		System.out.println("Account Details:");
 		System.out.println("Account Holder Name : "+ AHN);
 		System.out.println("Account No.");
+		System.out.println("Branch Name: );
+		System.out.println("Branch Ifsc Code: );
+
 	}
 	
 	
